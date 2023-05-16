@@ -1,0 +1,4 @@
+baseURL = 'http://links.ameliamnesia.xyz/'
+languageCode = 'en-us'
+title = 'ameliamnesia.xyz'
+theme = 'PaperMod'
